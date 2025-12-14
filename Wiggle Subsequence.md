@@ -1,3 +1,4 @@
+
 ---
 
 ## Wiggle Subsequence
@@ -124,7 +125,6 @@ class Solution:
                 up = down + 1
             elif diff < 0:
                 down = up + 1
-
         return max(up, down)
 ```
 
