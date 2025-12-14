@@ -1,11 +1,8 @@
-# Exported Snippets from Project Sophia
-
 ---
 
 ## Wiggle Subsequence
 **Language:** python
-**Collection:** Medium
-**Created At:** 2025-12-14 11:41:17
+
 
 ### Description:
 <hr>
@@ -127,6 +124,7 @@ class Solution:
                 up = down + 1
             elif diff < 0:
                 down = up + 1
+
         return max(up, down)
 ```
 
