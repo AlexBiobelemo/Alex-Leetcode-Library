@@ -3,7 +3,7 @@
 
 ## Wiggle Subsequence
 **Language:** python
-
+**Tags:** python,oop,dynamic programming,arr
 
 ### Description:
 <hr>
@@ -129,3 +129,4 @@ class Solution:
 ```
 
 ---
+
